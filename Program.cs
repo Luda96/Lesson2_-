@@ -1,4 +1,4 @@
-﻿ //int a = 0;
+ //int a = 0;
 
 //for (int i = 0; i < 100; i++)
 
@@ -72,9 +72,3 @@ int a = new Random().Next();
 int b = a / ;
 
 Console.Write($"{a}    {b} ");
-
-
-
-
-
-
