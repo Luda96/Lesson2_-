@@ -45,7 +45,7 @@ Console.Write($"{a} -> {a.ToString().Remove(1, 1)}");
 
 //Console.Write($"{a} -> {a / 100 *10 + a % 10} ");*/
 
-int a = new Random().Next(10, 51);
+/*int a = new Random().Next(10, 51);
 int b = new Random().Next(1, 21);
 
 Console.Write($"{a}  {b}\n");
@@ -53,7 +53,28 @@ Console.Write($"{a}  {b}\n");
 if (a % b == 0)
     Console.Write($"{a} и {b} - кратны");
 else
-    Console.Write($"остаток от деления {a} на {b} = {a % b}");
+    Console.Write($"остаток от деления {a} на {b} = {a % b}");*/
+
+ ///////////////////Задача10///////////////////////////
+
+/*int a = new Random().Next(99, 999);
+
+Console.Write($"{a} -> ");
+
+int b1 = a % 100;
+int b2 = b1 / 10;
+
+Console.Write($"{b2}");*/ 
+
+//////////////////////Задача13///////////////////////
+
+int a = new Random().Next();
+int b = a / ;
+
+Console.Write($"{a}    {b} ");
+
+
+
 
 
 

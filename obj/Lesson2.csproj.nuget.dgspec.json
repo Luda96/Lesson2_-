@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ludat\\Desktop\\Lesson2\\Lesson2.csproj": {}
+    "C:\\Users\\ludat\\desktop\\Lesson2\\Lesson2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ludat\\Desktop\\Lesson2\\Lesson2.csproj": {
+    "C:\\Users\\ludat\\desktop\\Lesson2\\Lesson2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ludat\\Desktop\\Lesson2\\Lesson2.csproj",
+        "projectUniqueName": "C:\\Users\\ludat\\desktop\\Lesson2\\Lesson2.csproj",
         "projectName": "Lesson2",
-        "projectPath": "C:\\Users\\ludat\\Desktop\\Lesson2\\Lesson2.csproj",
+        "projectPath": "C:\\Users\\ludat\\desktop\\Lesson2\\Lesson2.csproj",
         "packagesPath": "C:\\Users\\ludat\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ludat\\Desktop\\Lesson2\\obj\\",
+        "outputPath": "C:\\Users\\ludat\\desktop\\Lesson2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ludat\\AppData\\Roaming\\NuGet\\NuGet.Config"
