@@ -67,8 +67,13 @@ int b2 = b1 / 10;
 Console.Write($"{b2}");*/ 
 
 //////////////////////Задача13///////////////////////
-
+int i = 0;
 int a = new Random().Next();
-int b = a / ;
-
-Console.Write($"{a}    {b} ");
+if (a > 99)
+{
+    i = 10;
+    i = a % 100;
+    Console.Write($"{a}    {i} ");
+}   
+else
+Console.Write($"{a}    третьей цифры нет ");
